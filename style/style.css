@@ -1,0 +1,25 @@
+.input-group {
+  margin: 0px 0px;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+td:first-of-type {
+  height: 0px;
+  width: 0px;
+}
+tr:nth-of-type(odd) {
+  background-color:#ccc;
+}
+ th {
+  background-color:#999;
+}
+td:nth-child(1) {
+  background-color:#999;
+}
+.table th, .table td {
+  border-top: 0px!important;
+}
