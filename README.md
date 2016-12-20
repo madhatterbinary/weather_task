@@ -10,3 +10,5 @@ Click [here](https://github.com/madhatterbinary/weather_task/releases)
 7- Open your browser and type: http://localhost:8080/
 8- Open your developer tool inspector in case of any error.
 9- It should show the five days weather forecast for Havana on a table.
+10- You might have a different version of node.js. Please, type in terminal, node -v to check the version you have.
+11- My version of node.js is v5.12.0.
