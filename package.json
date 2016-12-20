@@ -1,13 +1,14 @@
 {
-  "name": "Five days weather forecast for Havana",
+  "name": "Five-days-weather-forecast-for-Havana",
   "version": "1.0.0",
   "description": "Five days Weather forecast for Havana. Wipro Digital coding task",
-  "main": "index.js",
+  "main": "index.jsx",
+  "repository": "",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "Ulysses Alvarez",
-  "license": "NA",
+  "license": "",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
